@@ -14,7 +14,7 @@ configparser==3.5.0
 cryptography==2.1.4
 cycler==0.10.0
 decorator==4.3.0
-Django==2.0.5
+Django==2.2.24
 future==0.16.0
 h11==0.7.0
 h2==3.0.1
