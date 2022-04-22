@@ -48,7 +48,7 @@ Pygments==2.2.0
 PyMySQL==0.8.1
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyperclip==1.6.0
 python-dateutil==2.6.1
 pytz==2017.3
